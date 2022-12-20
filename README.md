@@ -1,7 +1,4 @@
-### Hi there, my name is Karen! 👋
-
-
-**karenagustino/karenagustino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm Karen! 👋
 
 
 - 🌱 Currently learning: C++, Java, and Python
